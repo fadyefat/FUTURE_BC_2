@@ -1,10 +1,15 @@
-[
-  {
-    "chainId": 80001,
-    "address": "0xF57E05A0F1379eB76C26dd9Dcf4a8CaB312aFD6e",
-    "symbol": "SHACO",
-    "decimals": 18,
-    "name": "Shaco Token",
-    "logoURI": "https://github.com/fadyefat/FUTURE_BC_2/blob/main/shaco_logo_256.png"
-  }
-]
+{
+  "name": "Shaco Testnet Tokens",
+  "logoURI": "https://raw.githubusercontent.com/fadyefat/FUTURE_BC_2/main/shaco_logo_256.png",
+  "keywords": ["SHACO"],
+  "tokens": [
+    {
+      "chainId": 80001,
+      "address": "0xF57E05A0F1379eB76C26dd9Dcf4a8CaB312aFD6e",
+      "name": "Shaco Token",
+      "symbol": "SHACO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fadyefat/FUTURE_BC_2/main/shaco_logo_256.png"
+    }
+  ]
+}
