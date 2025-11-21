@@ -34,19 +34,3 @@ You can view the contract on [Sepolia Etherscan](https://sepolia.etherscan.io/ad
 2. Enter the **Contract Address**: `0xF57E05A0F1379eB76C26dd9Dcf4a8CaB312aFD6e`  
 3. Name and Symbol will auto-populate (if not, enter manually: Shaco Token, SHACO)  
 4. Decimals: 18  
-
----
-
-## Token Logo (Optional)
-
-You can host your logo on IPFS or any CDN and reference it in a Token List JSON:
-
-```json
-{
-  "chainId": 11155111,
-  "address": "0xF57E05A0F1379eB76C26dd9Dcf4a8CaB312aFD6e",
-  "name": "Shaco Token",
-  "symbol": "SHACO",
-  "decimals": 18,
-  "logoURI": "https://gateway.pinata.cloud/ipfs/YOUR_CID_HERE"
-}
