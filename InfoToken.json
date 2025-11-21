@@ -1,6 +1,6 @@
 {
   "name": "Shaco Testnet Tokens",
-  "logoURI": "https://raw.githubusercontent.com/fadyefat/FUTURE_BC_2/main/shaco_logo_256.png",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiak3nrv3gwzfzjwtjeubopubad2kodtmjweznllhmbugyf3qfclry",
   "keywords": ["SHACO"],
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "name": "Shaco Token",
       "symbol": "SHACO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/fadyefat/FUTURE_BC_2/main/shaco_logo_256.png"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiak3nrv3gwzfzjwtjeubopubad2kodtmjweznllhmbugyf3qfclry"
     }
   ]
 }
