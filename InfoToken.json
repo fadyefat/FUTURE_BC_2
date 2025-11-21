@@ -1,0 +1,15 @@
+{
+  "name": "Shaco Testnet Tokens",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiak3nrv3gwzfzjwtjeubopubad2kodtmjweznllhmbugyf3qfclry",
+  "keywords": ["SHACO"],
+  "tokens": [
+    {
+      "chainId": 80001,
+      "address": "0xF57E05A0F1379eB76C26dd9Dcf4a8CaB312aFD6e",
+      "name": "Shaco Token",
+      "symbol": "SHACO",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiak3nrv3gwzfzjwtjeubopubad2kodtmjweznllhmbugyf3qfclry"
+    }
+  ]
+}
